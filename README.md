@@ -1,0 +1,1 @@
+Projekt miał na celu zrealiozwanie systemu SCADA umożliwiającego symulację oraz sterowanie instalacją fotowoltaiczną. Został zrealizowany razem z dwoma innymi osobami. Moim zadaniem była wizualizacja projektu.
