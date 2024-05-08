@@ -1,1 +1,1 @@
-Projekt miał na celu zrealiozwanie systemu SCADA umożliwiającego symulację oraz sterowanie instalacją fotowoltaiczną. Został zrealizowany razem z dwoma innymi osobami. Moim zadaniem była wizualizacja projektu.
+Projekt miał na celu zrealiozwanie systemu SCADA umożliwiającego symulację oraz sterowanie instalacją fotowoltaiczną. Został zrealizowany razem z dwoma innymi osobami. Moim zadaniem była wizualizacja projektu. Został on zrealizowany w programie zenon software firmy COPA-DATA. Ukończyłem szkolenie zenon Basic i otrzymałem certyfikat.
